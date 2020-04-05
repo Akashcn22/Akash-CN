@@ -1,2 +1,0 @@
-# Akash-CN
-Hacking knowledge
